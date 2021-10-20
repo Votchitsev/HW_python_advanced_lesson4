@@ -1,7 +1,7 @@
 import os
 import hashlib
 
-path = os.path.abspath('countries.json')
+path = os.path.abspath('result_file.txt')
 
 
 def my_generator(p):
